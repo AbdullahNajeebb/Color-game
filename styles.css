@@ -1,8 +1,15 @@
 .triangle {
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 100px solid red;
+  width: 0;
+  height: 0;
+  padding-top: 155px;
+  margin-left: 150px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid rgb(40, 92, 248);
 }
 
+.inner {
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid rgb(59, 241, 56);
+}
